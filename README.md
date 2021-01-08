@@ -20,7 +20,8 @@ A simple Point-Of-Sale Application in Python (PyQt5 GUI) backed by MySQL includi
 8.	Python libraries: pyqt5, pandas, matplotlib, mysql.connector, rich
 
 # Installation and Setup
-1. Install PyPOS " $ git clone https://github.com/anjulbhatia/PyPOS " or downloading and expanding the .zip file at the path of your comfort.
+1. Install PyPOS " $ git clone https://github.com/anjulbhatia/PyPOS " or downloading and expanding the .zip file at the path of your comfort. 
+2. $ pip install -r requirements.txt
 2. Run setup.py and provide it with the useful insights.
 3. Run the main.py and login to your account.
 
